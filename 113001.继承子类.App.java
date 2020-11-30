@@ -1,6 +1,6 @@
 package pac;
 
-public class App  implements R{
+public class App  extends R{
 	public static void main(String[] args) {
 		R.TuPian();
 		
