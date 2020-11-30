@@ -1,6 +1,6 @@
 package pac;
 
-public interface R {
+public class R {
 	static void TuPian(){
 	String boy_filePath="img/boy.gif";
 	String girl_filePath="img/boy.gif";
